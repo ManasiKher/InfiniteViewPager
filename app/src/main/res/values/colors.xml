@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--standard color codes-->
+    <color name="colorPrimary">#345a9f</color>
+    <color name="colorPrimaryDark">#7f7d7d</color>
+    <color name="colorAccent">#3d708c</color>
+
+
+    <!--zeplin color codes-->
+    <color name="dusty_orange">#e97248</color>
+    <color name="muted_blue">#345a9f</color>
+    <color name="warm_grey">#7f7d7d</color>
+    <color name="white_two">#ffffff</color>
+    <color name="dusty_orange_two">#f3823e</color>
+    <color name="faded_orange">#f48c4d</color>
+    <color name="white_grey">#ebebeb</color>
+    <color name="mud_brown_23">#3b5b230f</color>
+    <color name="black">#000000</color>
+    <color name="silver">#d7d8da</color>
+    <color name="silver_two">#bcbec4</color>
+    <color name="cool_grey">#acb1b8</color>
+    <color name="silver_three">#e6e7e8</color>
+    <color name="light_grey_blue">#809cd5</color>
+    <color name="white_three">#d7d7d7</color>
+    <color name="pinkish_grey">#c6c6c6</color>
+    <color name="white_four">#e6e6e6</color>
+    <color name="mud_brown">#553112</color>
+    <color name="mud_brown_90">#e5553112</color>
+    <color name="black_two">#2b2b2b</color>
+    <color name="pinkish_grey_two">#bcbbbb</color>
+    <color name="greyish">#b6b5b5</color>
+    <color name="white_gey">#ebebeb</color>
+    <color name="mudbrown">#553112</color>
+    <color name="backtwo">#2b2b2b</color>
+    <color name="graytwo">#b7b7b7</color>
+    <color name="warmgray">#7f7d7d</color>
+    <color name="silvercolor">#d7d8da</color>
+    <color name="silvercolortwo">#bcbec4</color>
+    <color name="coolgrey">#acb1b8</color>
+    <color name="silvercolorthree">#e6e7e8</color>
+    <color name="lightgreyblue">#809cd5</color>
+    <color name="whitetwo">#ebebeb</color>
+    <color name="coralpink">#fd676c</color>
+
+
+
+    <color name="colorPrimaryYellowLight">#FDECD3</color>
+    <color name="colorTextField">#94979A</color>
+    <color name="colorTextFieldDark">#3D3D3D</color>
+    <color name="colorPrimaryGreen">#005B75</color>
+    <color name="colorPrimaryGreenLight">#009587</color>
+    <color name="colorTextFieldgreen">#207086</color>
+
+
+    <!--
+        ?standard color sets
+    -->
+
+    <color name="color1">#FF0000</color>
+    <color name="color2">#00FF00</color>
+    <color name="primary_light">#C5CAE9</color>
+    <color name="accent">#03A9F4</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="gray">#f7f7f7</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="drawerdash">#b6b7b7</color>
+    <color name="callhistoryname">#335062</color>
+    <color name="callhistorytitle">#b6b7b7</color>
+    <color name="callhistorytextviews">#666565</color>
+    <color name="schedulebuttonback">#e87e04</color>
+    <color name="GoogleButton">#dd4b39</color>
+    <color name="facebookButton">#3b5998</color>
+    <color name="signinbutton">#f38730</color>
+    <color name="forgetpass">#f38730</color>
+    <color name="white">#ffffff</color>
+    <color name="setmessagetext">#3d708c</color>
+    <color name="homescreentext">#424343</color>
+    <color name="hintcolor">#7F7F7F</color>
+    <color name="statusupdatetext">#4a4a4a</color>
+    <color name="drawerlist">#636161</color>
+    <color name="receiptline">#f38730</color>
+    <color name="receipcost">#325a71</color>
+    <color name="homefragment">#3d708c</color>
+    <color name="darkgray">#666565</color>
+    <color name="sendmessage2">#b6b7b7</color>
+    <color name="attachmentfirstlayout">#A4B0BB</color>
+    <color name="logintextline">#d4d4d4</color>
+    <color name="logintext">#b5b5b5</color>
+    <color name="callingscreenbackcolor">#3c4245</color>
+    <color name="statusbarcolor">#a4b0bb</color>
+    <color name="grey_line">#c5c5c5</color>
+    <color name="tab_grey">#ededed</color>
+    <color name="gray_background">#757575</color>
+    <color name="yellow">#FFBB33</color>
+    <color name="transparent">#00000000</color>
+    <color name="fadedOrange">#f48c4d</color>
+    <color name="dustyorange">#e97248</color>
+    <color name="mutedblue">#345a9f</color>
+    <color name="dashboardtext">#686868</color>
+    <color name="circle1">#c6c6c6</color>
+    <color name="circle2">#e6e6e6</color>
+    <color name="greyscale">#e2e2e2</color>
+    <color name="black_opacity70">#B3000000</color>
+
+</resources>
